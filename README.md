@@ -1,5 +1,6 @@
 ## About
-Resume is a resume and CV theme for Bootstrap created by Start Bootstrap
+Resume is a resume and CV theme for Bootstrap created by Start Bootstrap.
+License and Copyright information below.
 
 ## Copyright and License
 
